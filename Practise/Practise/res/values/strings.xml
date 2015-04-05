@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Practise</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_name">First Name</string>
+    <string name="contacts">Contact details</string>
+    <string name="names">Contact name</string>
+    <string name="last_name">Last Name</string>
+    <string name="mail">eMail</string>
+    <string name="phone">Phone Number</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="newcontact">New Contact</string>
+
+</resources>
